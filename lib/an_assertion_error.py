@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
 
-assert(1 == 2)
-print("values are equal")
+if 1 == 2:
+    print("values are equal")
+else:
+    print("values are not equal")
