@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
 
 assert(1 == 2)
-print("All tests passed!")
+print("values are equal")
